@@ -1,0 +1,9 @@
+both Terminals
+sudo mn -c
+
+First Terminal:
+ryu-manager ryu_controller.py ryu.app.ofctl_rest
+
+Second Terminal:
+sudo python3 mininet_topology.py
+
