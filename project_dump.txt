@@ -1,0 +1,48 @@
+﻿==================================================
+           PROJECT CODE DUMP REPORT
+==================================================
+Generated On: 2026-10-11 19:56:37
+Root Directory: H:\الدراسة\3rd year\term 1\منهجية البحث\project\app
+==================================================
+
+
+==================================================
+FILE PATH: \project_dump.txt
+FULL PATH: H:\الدراسة\3rd year\term 1\منهجية البحث\project\app\project_dump.txt
+==================================================
+[START OF FILE CONTENT]
+
+==================================================
+           PROJECT CODE DUMP REPORT
+==================================================
+Generated On: 2026-10-11 19:56:37
+Root Directory: H:\الدراسة\3rd year\term 1\منهجية البحث\project\app
+==================================================
+
+
+==================================================
+FILE PATH: \project_dump.txt
+FULL PATH: H:\الدراسة\3rd year\term 1\منهجية البحث\project\app\project_dump.txt
+==================================================
+[START OF FILE CONTENT]
+
+
+
+[END OF FILE CONTENT]
+
+
+==================================================
+FILE PATH: \.vscode\settings.json
+FULL PATH: H:\الدراسة\3rd year\term 1\منهجية البحث\project\app\.vscode\settings.json
+==================================================
+[START OF FILE CONTENT]
+
+{
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda",
+    "python-envs.pythonProjects": []
+}
+
+[END OF FILE CONTENT]
+
+
